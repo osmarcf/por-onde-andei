@@ -1,0 +1,7 @@
+{
+  "name": "localização-historico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

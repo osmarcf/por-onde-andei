@@ -1,0 +1,9 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "localização-historico",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"cleartext": true
+	}
+}
